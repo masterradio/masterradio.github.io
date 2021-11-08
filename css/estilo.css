@@ -1,3 +1,14 @@
+
+@media only screen and (min-width:700px){
+    #slide{
+        transform: translate(0%,-10%); 
+    }
+    
+    .slide{
+        height: 500px;
+    }
+}
+
 body{
     font-family: sans-serif;
 }
