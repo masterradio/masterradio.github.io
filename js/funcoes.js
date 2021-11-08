@@ -1,6 +1,4 @@
 /*
-
-*/
 function mudarFoto(){
     var body = document.querySelector('body');
     var disBody = body.offsetWidth;
@@ -22,7 +20,9 @@ function mudarFoto(){
 
 
 }
+*/
+
 
 window.onload = function() {
-    mudarFoto();
+    
 }
